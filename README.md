@@ -5,8 +5,8 @@ although so far I have only musicalized nucleic acids, and revealed the rhythm
 intrinsic of each human protein.
 
 Credits: my most sincere thanks to ALL those who put their work and their
-knowledge free Internet, without which I could not have developed anything
-Here I am putting, especially thank's to A. Brown (jmusic API), A. Troedson (score structuring
+knowledge free on Internet, without which I could not have developed anything;
+Specials thank's to A. Brown (jmusic API), A. Troedson (score structuring
 in java applications), yknk (MidiTrail), several current and past composers (for their 
 Musical Dice Games scores), and a very, very, very long etc for hundreds of people
 that have helped me or inspired me in the development of this project as far as it is today.
@@ -24,7 +24,7 @@ intrínseco de cada proteina humana.
 
 Creditos: mi más sincero aggradecimiento para TODOS aquellos que ponen su trabajo y sus
 conocimientos gratis en Internet, sin los cuales no habría podido desarrollar nada de lo que
-aqui voy poniendo, en especial a A.Brown (jmusic API), Troedson (estructuracion de partituras
+aqui voy subiendo, en especial a A.Brown (jmusic API), Troedson (estructuracion de partituras
 en aplicaciones java), yknk (MidiTrail), y varios compositores actuales y pasados (partiruras
 de sus Juegos de Dados Musicales), y un etc muy, muy, muy largo para cientos de personas
 que me han ayudado o inspirado en el desarrollo de este proyecto hasta donde está hoy dia.
